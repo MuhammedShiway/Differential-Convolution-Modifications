@@ -7,6 +7,8 @@ My graduation thesis in which I proposed SigScale and PowScale
 
 [CIFAR10 1/3] Comparative Analysis of 4, 5, and 6
 
+[Test 1](https://github.com/MuhammedShiway/Graduation-Thesis/blob/main/Testing-Diffconv-4-5-and-6-InProgress.ipynb)
+
 [CIFAR100 0/3] Comparative Analysis of 4, 5, and 6
 
 [--] Check 2 types of DiffConv6
