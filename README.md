@@ -1,5 +1,6 @@
 # Graduation-Thesis
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Hashira.jpg)
+
 My graduation thesis in which I proposed SigScale and PowScale
 
 [DONE] DiffConv Variations: 4, 5 (original), and 6 (Isselmou)
