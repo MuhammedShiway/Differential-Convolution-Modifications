@@ -1,5 +1,5 @@
 # Graduation-Thesis
-![GitHub Logo](/Hashira.jpg)
+![GitHub Logo](/Hash.jpg)
 
 My graduation thesis in which I proposed SigScale and PowScale
 
