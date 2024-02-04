@@ -1,7 +1,7 @@
 # Differential Convolution Modification
-![Diffconv Image](diffconv.jpg)
+
 <p align="center">
-  <img src="diffconv.jpg" alt="Your Image Description">
+  <img src="diffconv.jpg" alt="DiffConv Image">
 </p>
 
 ## 📊 Overview
