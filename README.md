@@ -1,9 +1,10 @@
 # Differential Convolution Modification
+![Diffconv Image](diffconv.jpg)
 
 ## 📊 Overview
-This repository presents a modification of the Differential Convolution technique, reducing the feature maps from the original five to four. This modification aims to explore the effects of feature map reduction on model performance and efficiency.
+This repository presents a modification of the [Differential Convolution]([Completed]_Differential_Convolution.ipynb) technique, reducing the feature maps from the original five to four. This modification aims to explore the effects of [feature map](Diffconv-4-5-6-Maps.ipynb) reduction on model performance and efficiency.
 
-## 📈 Performance Comparison
+## 📈 [Performance Comparison](Testing-Diffconv-4-5-and-6-[COMPLETE].ipynb)
 - **Without Modification**: 80.33%
 - **With Modification (4 Feature Maps)**: 85.47%
 - **Original (5 Feature Maps)**: 85.58%
@@ -17,5 +18,6 @@ The modified Differential Convolution, using 4 feature maps, demonstrates compet
 - This approach's primary focus is efficiency.
 
 ## 📖 References
-
+1) Sarıgül, M., B.M. Ozyildirim, and M. Avci. "Differential Convolutional Neural Network." Neural Networks 116, (2019): 279-287. Accessed February 4, 2024. https://doi.org/10.1016/j.neunet.2019.04.025.
+2) Abd El Kader I, Xu G, Shuai Z, Saminu S, Javaid I, Salim Ahmad I. Differential Deep Convolutional Neural Network Model for Brain Tumor Classification. Brain Sci. 2021 Mar 10;11(3):352. doi: 10.3390/brainsci11030352. PMID: 33801994; PMCID: PMC8001442.
 
