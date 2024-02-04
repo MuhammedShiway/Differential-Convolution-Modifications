@@ -12,11 +12,10 @@ This repository presents a modification of the Differential Convolution techniqu
 ## 🔍 Results
 The modified Differential Convolution, using 4 feature maps, demonstrates competitive performance with an accuracy of 85.47%, closely approaching that of the original and Isselmou's versions. This suggests that reducing feature maps can maintain high performance while potentially offering gains in efficiency.
 
-## Key Insights
+## 💡 Key Insights
 - The modification showcases the possibility of achieving competitive perfromance with less computational demands
 - This approach's primary focus is efficiency.
 
+## 📖 References
 
-
-Check out [my medium blog](https://medium.com/@muhmuqshin) 
 
