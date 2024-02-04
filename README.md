@@ -1,5 +1,8 @@
 # Differential Convolution Modification
 ![Diffconv Image](diffconv.jpg)
+<p align="center">
+  <img src="diffconv.jpg" alt="Your Image Description">
+</p>
 
 ## 📊 Overview
 This repository presents a modification of the [Differential Convolution]([Completed]_Differential_Convolution.ipynb) technique, reducing the feature maps from the original five to four. This modification aims to explore the effects of [feature map](Diffconv-4-5-6-Maps.ipynb) reduction on model performance and efficiency.
