@@ -14,11 +14,11 @@ This repository presents a modification of the [Differential Convolution]([Compl
 - **Isselmou (6 Feature Maps)**: 85.62%
 
 ## 🔍 Results
-The modified Differential Convolution, using 4 feature maps, demonstrates competitive performance with an accuracy of 85.47%, closely approaching that of the original and Isselmou's versions. This suggests that reducing feature maps can maintain high performance while potentially offering gains in efficiency.
+The modified Differential Convolution, using just 4 feature maps, shows competitive performance with an accuracy of 85.47%, almost that of the original and Isselmou's versions. The whole point is to see how reducing computational costs (simplicity) affects performance
 
 ## 💡 Key Insights
-- The modification showcases the possibility of achieving competitive perfromance with less computational demands
-- This approach's primary focus is efficiency.
+- The modification showcases the possibility of achieving competitive performance with less computational demands
+- This approach's primary focus is efficiency (NOT feasibility).
 
 ## 📖 References
 1) Sarıgül, M., B.M. Ozyildirim, and M. Avci. "Differential Convolutional Neural Network." Neural Networks 116, (2019): 279-287. Accessed February 4, 2024. https://doi.org/10.1016/j.neunet.2019.04.025.
